@@ -177,6 +177,7 @@ public class MainActivity extends Activity implements android.view.View.OnClickL
 
 
 
+
     class thread extends Thread{
         public void run(){
             try{
